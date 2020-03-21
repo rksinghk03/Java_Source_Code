@@ -23,7 +23,7 @@ public  class Lab_04_HierarchicalInheritanceExample {
 		
 		c.meow();  
 		c.eat(); 
-		
+		//c.bark();
 		//System.out.println("Hello");
 
 	}
