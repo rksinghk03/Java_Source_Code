@@ -1,4 +1,4 @@
-package t08JavaExceptionHandling;
+package t11ExceptionHandling;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
