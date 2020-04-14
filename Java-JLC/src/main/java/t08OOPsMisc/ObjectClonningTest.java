@@ -1,4 +1,4 @@
-package t08javaOOPsMisc;
+package t08OOPsMisc;
 
 public class ObjectClonningTest implements Cloneable {
 	private String name;

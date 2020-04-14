@@ -1,4 +1,4 @@
-package t08javaOOPsMisc;
+package t08OOPsMisc;
 
 public strictfp class Lab8Strictfp {
 	//Java strictfp keyword ensures that you will get the same result on every platform if you perform operations in the floating-point variable.

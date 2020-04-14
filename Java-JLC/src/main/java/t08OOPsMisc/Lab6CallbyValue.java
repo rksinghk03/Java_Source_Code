@@ -1,4 +1,4 @@
-package t08javaOOPsMisc;
+package t08OOPsMisc;
 //
 //In case of call by value original value is not changed. Let's take a simple example:
 public class Lab6CallbyValue {

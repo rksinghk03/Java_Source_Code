@@ -1,4 +1,4 @@
-package t08javaOOPsMisc;
+package t08OOPsMisc;
 
 public class Lab4WrapperExample1 {
 	// Primitive to Wrapper 

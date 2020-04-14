@@ -1,4 +1,4 @@
-package t08javaOOPsMisc;
+package t08OOPsMisc;
 
 public class Lab10JavaCommandLineArguments {
 	public static void main(String args[]){  
