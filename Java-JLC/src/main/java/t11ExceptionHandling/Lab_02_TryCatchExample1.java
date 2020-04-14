@@ -1,6 +1,6 @@
-package t08JavaExceptionHandling;
+package t11ExceptionHandling;
 
-public class TryCatchExample1 {
+public class Lab_02_TryCatchExample1 {
 
 	public static void main(String[] args) {
 		try {
