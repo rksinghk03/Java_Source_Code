@@ -1,6 +1,6 @@
-package t08JavaExceptionHandling;
+package t11ExceptionHandling;
 
-public class JavaException {
+public class Lab_01_JavaException {
 
 	public static void main(String[] args) {
 		int i=100/0;

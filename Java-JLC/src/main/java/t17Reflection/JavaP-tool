@@ -1,0 +1,11 @@
+Options of javap tool
+
+The important options of javap tool are as follows.
+Option	Description
+-help	prints the help message.
+-l	prints line number and local variable
+-c	disassembles the code
+-s	prints internal type signature
+-sysinfo	shows system info (path, size, date, MD5 hash)
+-constants	shows static final constants
+-version	shows version information
